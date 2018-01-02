@@ -1,6 +1,6 @@
 # Michigan Benefits
 
-Code repository for [MichiganBenefits.org](michiganbenefits.org), a multi-benefit assistance application from
+Code repository for [MichiganBenefits.org](https://www.michiganbenefits.org/), a multi-benefit assistance application from
 [Code for America](https://www.codeforamerica.org).
 
 [![CircleCI](https://circleci.com/gh/codeforamerica/michigan-benefits.svg?style=svg)](https://circleci.com/gh/codeforamerica/michigan-benefits)
